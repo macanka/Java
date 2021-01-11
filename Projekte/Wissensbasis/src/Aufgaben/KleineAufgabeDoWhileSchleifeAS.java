@@ -1,6 +1,6 @@
 package Aufgaben;
 
-public class KleineAufgabeDoWhileSchleife {
+public class KleineAufgabeDoWhileSchleifeAS {
 
 	public static void main(String[] args) {
 
